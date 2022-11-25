@@ -1,0 +1,22 @@
+for fetching data from data base 
+
+
+create .env file on this place 
+
+go to mongodb atlas   sign in to you account 
+
+
+watch video on youtube how to connect database from mongodb atlas
+
+
+
+
+you must paste in your .env file
+
+MONGO_URL=mongodb+srv  cluster user link <username>/<databasename>
+
+
+JWT_SECRET= Your Jwt Token
+
+
+if you face any issue feel free to contact us 
